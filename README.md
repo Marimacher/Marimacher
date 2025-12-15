@@ -1,6 +1,6 @@
 #  Мария Ярошевич — AI-видеокреатор | Режиссёр | Продюсер  
 📍 Удалённо | ✉️ mariyayoutu@gmail.com  
-🎬 Портфолио: [AI Video Projects](https://drive.google.com/drive/folders/1SJOaql9RhZ61FJm81mVhurkjx3EFur1_?usp=sharing) 
+🎬 Портфолио: [AI Video Projects](https://drive.google.com/drive/folders/1-IfSVq8Lbk7ovOufty0BN92RC_FGANkh) 
 
 ---
 
@@ -28,7 +28,7 @@
 - Полный цикл производства: от идеи и сценария до финального монтажа  
 
 **Монтаж и пост-продакшн**
-- Premiere Pro, CapCut, Sony Vegas, Photoshop  
+- Premiere Pro, DaVinci Resolve, CapCut, Sony Vegas, Photoshop  
 - Цветокоррекция, звуковой дизайн, субтитры, титры  
 
 **Креатив и сторителлинг**
@@ -84,9 +84,9 @@ _Дополнительные обучения:_
 
 ## 🎞️ Портфолио  
 
-[**По ссылке**](https://drive.google.com/drive/folders/1SJOaql9RhZ61FJm81mVhurkjx3EFur1_?usp=sharing)  
+[**По ссылке**](https://drive.google.com/drive/folders/1-IfSVq8Lbk7ovOufty0BN92RC_FGANkh)  
 Реалистичные и кинематографичные AI-видео:  
-- реклама с реальными предметами одежды  
+- реклама с реальными предметами одежды в том числе с ручной доработкой в Photoshop и DaVinci Resolve
 - реклама приложения с AI-аватаром  
 - AI-озвучка и постпродакшн  
 
