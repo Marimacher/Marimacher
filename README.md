@@ -17,12 +17,14 @@
 ## Ключевые навыки
 
 **AI-инструменты**
-- Генерация изображений: Sora, Nano Banana, Midjourney, Leonardo AI  
+- Генерация изображений: GPT Image, Nano Banana, Midjourney, Leonardo AI  
 - Генерация видео: Kling AI, Runway, Hailuo AI, Veo 3, Seedance 
 - Озвучка: ElevenLabs, Murf.ai  
 - Аватары и синтез лиц: HeyGen, Arcads AI 
 - Улучшение качества видео и изображений: Topaz Labs  
-- Мультимодальные и ассистивные модели: GPT, Gemini 2.5/Nano Banana 
+- Метапромтинг, работа со сценариями, монтажными листами: GPT, Claude
+
+Основная рабочая платформа сейчас - Youart.ai (нодовый воркфлоу)
 
 **Видео-продакшн**
 - Полный цикл производства: от идеи и сценария до финального монтажа  
